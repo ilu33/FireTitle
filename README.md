@@ -56,5 +56,5 @@ Firetitle and Crappy Firetitle are free software, licensed under the GPL2.
 
 Mozilla's _Add-ons for Firefox_: 
 
-* [FireTitle](https://addons.mozilla.org/addon/firetitle/) ([download](https://addons.mozilla.org/downloads/latest/1298/))
+* [FireTitle] The link to Mozilla is dead, use Justoff's https://github.com/JustOff/ca-archive for Waterfox instead (caa:addon/firetitle)
 * [Crappy Firetitle](https://addons.mozilla.org/addon/crappy-firetitle/) ([download](https://addons.mozilla.org/downloads/latest/850618/)) 
